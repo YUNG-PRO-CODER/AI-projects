@@ -4,7 +4,7 @@
 
 **Real-time AI-powered dashboard tracking India's 260M+ students across 28 states. Neural networks detect education crises. XGBoost deploys instant solutions!**
 
-[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=yellow)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat&logo=python&logoColor=yellow)](https://python.org)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-41CD52?style=flat&logo=qt&logoColor=white)](https://pyqtgraph.org)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen)](LICENSE)
 
